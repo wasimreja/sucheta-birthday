@@ -58,7 +58,7 @@ const sampleMessagesDataArray: TMessagesData[] = [
     musicName: "Tu Aisa Kaise Hai - Osho Jain",
     messageInParas: [
       "Just had a moment where I realized how freaking lucky I am to have you in my life.",
-      "We just click, you know? From deep talks to laughing at the dank memes, you get me in a way no one else does. You're always there to listen to my nonsense, and you never judge. Thanks for being my ride-or-die and the best friend anyone could ask for.",
+      "We just click, you know? From deep talks to laughing at the dank memes, you get me in a way no one else does. You're there for me through thick and thin, always down to listen. You've seen me at my most goofy and still stuck around. Thanks for being my ride-or-die and the best friend anyone could ask for.",
       "You're the immensely beautiful part of my life I yearn to keep hold of forever. It's not easy for me to express such vulnerability, but you're worth every word.",
       "Oh, and don't forget our promise – if we're both still single by 40, let’s get married. Deal?",
     ],
