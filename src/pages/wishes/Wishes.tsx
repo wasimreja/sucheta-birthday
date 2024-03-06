@@ -46,7 +46,10 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: firstAlbumArt,
     musicName: "Unicorn and the Sheep - Raghav Meattle",
     messageInParas: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Sucheta, Happy Birthday, beautiful soul.",
+      "Another year older, and you're still as dazzling as ever. May your day be filled with giggles, sweet treats and endless joy. Just like cupcake with sprinkles, your presence adds a sprinkle of happiness to my life.",
+      "You’re so bubbly, constantly smiling and talking brightly. You possess a soft mushy nature and pure innocence. You know me to my core. You know what makes me smile and what ticks me off. If I am going through something, you are the first person to text me to make sure I am okay. Thank you for making me feel ‘home’ even though we are miles apart.",
+      "And remember, no matter where life takes us, I'll always be here for you. You're my friend to the end.",
     ],
     musicFilePath: firstMusic,
   },
@@ -54,7 +57,10 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: secondAlbumArt,
     musicName: "Tu Aisa Kaise Hai - Osho Jain",
     messageInParas: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "On your birthday, I want you to know just how much you mean to me. You’re the most amazing and warm person I have ever come across.",
+      "We just click, you know? From deep talks to laughing at the dank memes, you get me in a way no one else does. You're always there to listen to my nonsense, and you never judge. Thanks for being my ride-or-die and the best friend anyone could ask for.",
+      "You're the immensely beautiful part of my life I yearn to keep hold of forever. It's not easy for me to express such vulnerability, but you're worth every word.",
+      "Oh, and don't forget our promise – if we're both still single by 40, let’s get married. Deal?",
     ],
     musicFilePath: secondMusic,
   },
